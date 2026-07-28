@@ -25,12 +25,6 @@ The dashboard provides insights into product performance, sales trends, and cust
 
 ---
 
-##  Dashboard Preview
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
----
-
 ##  Project Goal
 
 The goal of this project is to practice data analysis and visualization using real-world sales data.
