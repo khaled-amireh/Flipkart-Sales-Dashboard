@@ -1,13 +1,13 @@
-# 📊 Flipkart Sales Dashboard (Power BI)
+# Flipkart Sales Dashboard (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Flipkart sales data using Power BI.  
 The dashboard provides insights into product performance, sales trends, and customer behavior.
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Total sales distribution by price segment  
 - Product category performance  
@@ -16,7 +16,7 @@ The dashboard provides insights into product performance, sales trends, and cust
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Power BI  
 - Data Cleaning  
@@ -25,18 +25,18 @@ The dashboard provides insights into product performance, sales trends, and cust
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 The goal of this project is to practice data analysis and visualization using real-world sales data.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Khaled Amireh
