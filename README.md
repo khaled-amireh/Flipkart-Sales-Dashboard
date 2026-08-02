@@ -29,7 +29,6 @@ The dashboard provides insights into product performance, sales trends, and cust
 The goal of this project is to practice data analysis and visualization using real-world sales data.
 
 ---
-
 ##  Author
 
 Khaled Amireh
