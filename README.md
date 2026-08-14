@@ -14,6 +14,7 @@ The dashboard helps transform raw sales data into clear and actionable insights.
 - Product category performance  
 - Sales trends over time  
 - Customer purchasing patterns  
+- Identification of high-performing products
 
 ---
 
