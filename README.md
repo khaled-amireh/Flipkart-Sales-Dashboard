@@ -4,6 +4,8 @@
 
 This project analyzes Flipkart sales data using Power BI.  
 The dashboard provides insights into product performance, sales trends, and customer behavior.
+
+The dashboard helps transform raw sales data into clear and actionable insights.
 ---
 
 ##  Key Insights
