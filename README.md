@@ -23,7 +23,6 @@ The dashboard helps transform raw sales data into clear and actionable insights.
 - Power BI  
 - Data Cleaning  
 - Data Visualization  
-- CSV Dataset  
 - Flipkart Sales Dataset
 
 ---
