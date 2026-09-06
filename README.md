@@ -92,7 +92,6 @@ The goal of this project is to practice **end-to-end data analysis and visualiza
 
 ---
 
-## 👤 Author
+## Author
 
 **Khaled Amireh**
-[GitHub](https://github.com/khaled-amireh)
