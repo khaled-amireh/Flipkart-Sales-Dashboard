@@ -86,7 +86,7 @@ Flipkart-Sales-Dashboard/
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 The goal of this project is to practice **end-to-end data analysis and visualization** using real-world sales data — from cleaning raw records to designing a dashboard that communicates insights clearly and supports data-driven decisions.
 
