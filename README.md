@@ -1,4 +1,4 @@
-# 📊 Flipkart Sales Dashboard (Power BI)
+# Flipkart Sales Dashboard (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
