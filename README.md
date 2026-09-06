@@ -45,11 +45,11 @@ The dashboard surfaces the following insights:
 
 | Insight | Description |
 |---|---|
-| 💰 Sales Distribution by Price Segment | Breaks down total sales across different price ranges |
-| 🏷️ Product Category Performance | Compares revenue and volume across product categories |
-| 📈 Sales Trends Over Time | Tracks how sales evolve across time periods |
-| 🧑‍🤝‍🧑 Customer Purchasing Patterns | Highlights recurring behaviors in how customers buy |
-| ⭐ High-Performing Products | Identifies top products driving the most sales |
+|  Sales Distribution by Price Segment | Breaks down total sales across different price ranges |
+|  Product Category Performance | Compares revenue and volume across product categories |
+|  Sales Trends Over Time | Tracks how sales evolve across time periods |
+|  Customer Purchasing Patterns | Highlights recurring behaviors in how customers buy |
+|  High-Performing Products | Identifies top products driving the most sales |
 
 ---
 
