@@ -53,7 +53,7 @@ The dashboard surfaces the following insights:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Category | Tools |
 |---|---|
