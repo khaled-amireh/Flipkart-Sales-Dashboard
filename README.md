@@ -63,7 +63,7 @@ The dashboard surfaces the following insights:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Flipkart-Sales-Dashboard/
