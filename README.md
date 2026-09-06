@@ -39,7 +39,7 @@ Raw transactional sales data is cleaned, modeled, and visualized into a single i
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 The dashboard surfaces the following insights:
 
