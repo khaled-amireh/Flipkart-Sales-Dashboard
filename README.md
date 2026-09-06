@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes **Flipkart sales data** using **Power BI** to uncover patterns in product performance, sales trends, and customer behavior.
 
