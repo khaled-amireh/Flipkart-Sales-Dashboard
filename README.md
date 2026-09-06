@@ -75,7 +75,7 @@ Flipkart-Sales-Dashboard/
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Clone or download this repository:
    ```bash
