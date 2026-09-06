@@ -29,7 +29,7 @@ Raw transactional sales data is cleaned, modeled, and visualized into a single i
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 <p align="center">
   <img src="Screenshot/Dashboard.png" alt="Flipkart Sales Dashboard Preview" width="800"/>
