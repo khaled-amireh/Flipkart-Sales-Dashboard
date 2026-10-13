@@ -82,14 +82,14 @@ Every good dashboard starts with a question. This one answers five:
 
 ---
 
-## 🧱 How It Was Built
+##  How It Was Built
 
 ```mermaid
 flowchart LR
-    A["📄 Raw Flipkart<br/>sales data (CSV)"] --> B["🧹 Clean the data<br/>Power Query"]
-    B --> C["🧱 Model the data"]
-    C --> D["📊 Build visuals<br/>in Power BI"]
-    D --> E["💡 Insights and<br/>decisions"]
+    A[" Raw Flipkart<br/>sales data (CSV)"] --> B[" Clean the data<br/>Power Query"]
+    B --> C[" Model the data"]
+    C --> D[" Build visuals<br/>in Power BI"]
+    D --> E[" Insights and<br/>decisions"]
 
     classDef blue fill:#1e40af,stroke:#93c5fd,color:#fff;
     classDef gold fill:#a16207,stroke:#fde047,color:#fff;
@@ -98,13 +98,13 @@ flowchart LR
 ```
 
 <details>
-<summary><b>🔍 The three stages in plain words (click to expand)</b></summary>
+<summary><b> The three stages in plain words (click to expand)</b></summary>
 
 <br/>
 
-1. **🧹 Cleaned:** raw sales records usually contain mess (gaps, inconsistencies). These were tidied up so the numbers can be trusted.
-2. **🧱 Modeled:** the cleaned data was organized so Power BI can slice it by price, category, time and more.
-3. **📊 Visualized:** charts were designed to turn those numbers into patterns a person can read at a glance.
+1. ** Cleaned:** raw sales records usually contain mess (gaps, inconsistencies). These were tidied up so the numbers can be trusted.
+2. ** Modeled:** the cleaned data was organized so Power BI can slice it by price, category, time and more.
+3. ** Visualized:** charts were designed to turn those numbers into patterns a person can read at a glance.
 
 </details>
 
