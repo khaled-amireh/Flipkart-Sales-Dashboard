@@ -75,8 +75,8 @@ Every good dashboard starts with a question. This one answers five:
 
 | Role | What they would look at first |
 |---|---|
-| 🛍️ **Store owner** | High-performing products and sales trends |
-| 📣 **Marketing manager** | Price segments and customer purchasing patterns |
+|  **Store owner** | High-performing products and sales trends |
+|  **Marketing manager** | Price segments and customer purchasing patterns |
 | 📦 **Inventory planner** | Category performance and trends over time |
 | 🎓 **Data student** | The full pipeline: cleaning, modeling, visualizing |
 
