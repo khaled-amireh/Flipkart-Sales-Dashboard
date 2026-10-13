@@ -149,7 +149,7 @@ Flipkart-Sales-Dashboard/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Get the files**
    ```bash
@@ -163,14 +163,14 @@ Flipkart-Sales-Dashboard/
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 The goal of this project is to practice **end-to-end data analysis and visualization** with real-world sales data: from cleaning raw records to designing a dashboard that communicates insights clearly and supports data-driven decisions.
 
 | Skill practiced | Where it shows up |
 |---|---|
-| 🧹 Data cleaning | Preparing the raw sales data |
-| 🧱 Data modeling | Organizing data for slicing and filtering |
+|  Data cleaning | Preparing the raw sales data |
+|  Data modeling | Organizing data for slicing and filtering |
 | 📊 Visualization | Charts built around the five key questions |
 | 🗣️ Data storytelling | One page that explains the business at a glance |
 
