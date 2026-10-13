@@ -36,14 +36,14 @@
 **Explain it like I'm five:**
 A car dashboard lets you see speed, fuel and warnings in one glance, without opening the engine. A sales dashboard does the same for a business. Instead of scrolling through thousands of spreadsheet rows, you look at one page and instantly see what is going well and what needs attention.
 
-|  Car dashboard | 📊 Sales dashboard |
+|  Car dashboard |  Sales dashboard |
 |---|---|
 | Speedometer | Total sales and trends over time |
 | Fuel gauge | Which categories and products are "running low" or "full speed" |
 | Warning lights | Weak segments that need attention |
 
 ```
-😵 Thousands of raw sales rows   ➜   🧹 Clean and model   ➜   📊 Interactive dashboard   ➜   💡 Decisions in seconds
+ Thousands of raw sales rows   ➜    Clean and model   ➜    Interactive dashboard   ➜   Decisions in seconds
 ```
 
 ---
