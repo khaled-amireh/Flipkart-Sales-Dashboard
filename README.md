@@ -181,7 +181,6 @@ The goal of this project is to practice **end-to-end data analysis and visualiza
 - [ ] Add more screenshots, one per dashboard page
 - [ ] Document the key DAX measures behind the visuals
 - [ ] Add a short data dictionary explaining each column
-- [ ] Record a short GIF of the filters in action
 
 ---
 
