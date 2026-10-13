@@ -108,7 +108,7 @@ flowchart LR
 
 </details>
 
-### 🕑 A manager's 2-minute tour
+###  A manager's 2-minute tour
 
 ```mermaid
 journey
@@ -131,12 +131,12 @@ journey
 | Category | Tools |
 |---|---|
 |  Visualization & Reporting | Power BI |
-| 🧹 Data Preparation | Data Cleaning (Power Query) |
-| 📄 Data Source | Flipkart Sales Dataset (CSV) |
+|  Data Preparation | Data Cleaning (Power Query) |
+|  Data Source | Flipkart Sales Dataset (CSV) |
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Flipkart-Sales-Dashboard/
