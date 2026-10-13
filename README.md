@@ -48,7 +48,7 @@ A car dashboard lets you see speed, fuel and warnings in one glance, without ope
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 <p align="center">
   <img src="images/Dashboard.png" alt="Flipkart Sales Dashboard Preview" width="800"/>
@@ -77,8 +77,8 @@ Every good dashboard starts with a question. This one answers five:
 |---|---|
 |  **Store owner** | High-performing products and sales trends |
 |  **Marketing manager** | Price segments and customer purchasing patterns |
-| 📦 **Inventory planner** | Category performance and trends over time |
-| 🎓 **Data student** | The full pipeline: cleaning, modeling, visualizing |
+|  **Inventory planner** | Category performance and trends over time |
+|  **Data student** | The full pipeline: cleaning, modeling, visualizing |
 
 ---
 
