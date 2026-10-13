@@ -68,10 +68,10 @@ Every good dashboard starts with a question. This one answers five:
 |  | *"Which price range sells the most?"* | **Sales distribution by price segment**: total sales across different price ranges |
 |  | *"Which product categories perform best?"* | **Product category performance**: revenue and volume compared across categories |
 |  | *"Are sales going up or down?"* | **Sales trends over time**: how sales evolve across time periods |
-| 🧑‍🤝‍🧑 | *"How do customers like to buy?"* | **Customer purchasing patterns**: recurring behaviors in how people shop |
-| ⭐ | *"Which products are our stars?"* | **High-performing products**: the top products driving the most sales |
+|  | *"How do customers like to buy?"* | **Customer purchasing patterns**: recurring behaviors in how people shop |
+|  | *"Which products are our stars?"* | **High-performing products**: the top products driving the most sales |
 
-### 👥 Who can use it?
+###  Who can use it?
 
 | Role | What they would look at first |
 |---|---|
