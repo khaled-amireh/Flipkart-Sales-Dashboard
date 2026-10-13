@@ -59,13 +59,13 @@ A car dashboard lets you see speed, fuel and warnings in one glance, without ope
 
 ---
 
-## 💡 Questions It Answers
+##  Questions It Answers
 
 Every good dashboard starts with a question. This one answers five:
 
 | | The business asks... | The dashboard shows |
 |:-:|---|---|
-| 💰 | *"Which price range sells the most?"* | **Sales distribution by price segment**: total sales across different price ranges |
+|  | *"Which price range sells the most?"* | **Sales distribution by price segment**: total sales across different price ranges |
 | 🏷️ | *"Which product categories perform best?"* | **Product category performance**: revenue and volume compared across categories |
 | 📈 | *"Are sales going up or down?"* | **Sales trends over time**: how sales evolve across time periods |
 | 🧑‍🤝‍🧑 | *"How do customers like to buy?"* | **Customer purchasing patterns**: recurring behaviors in how people shop |
