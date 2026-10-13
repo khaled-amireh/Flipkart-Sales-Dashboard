@@ -171,12 +171,12 @@ The goal of this project is to practice **end-to-end data analysis and visualiza
 |---|---|
 |  Data cleaning | Preparing the raw sales data |
 |  Data modeling | Organizing data for slicing and filtering |
-| 📊 Visualization | Charts built around the five key questions |
-| 🗣️ Data storytelling | One page that explains the business at a glance |
+|  Visualization | Charts built around the five key questions |
+|  Data storytelling | One page that explains the business at a glance |
 
 ---
 
-## 🔭 Next Steps
+##  Next Steps
 
 - [ ] Add more screenshots, one per dashboard page
 - [ ] Document the key DAX measures behind the visuals
@@ -185,11 +185,10 @@ The goal of this project is to practice **end-to-end data analysis and visualiza
 
 ---
 
-## 👤 Author
+##  Author
 
 <p align="center">
   <b>Khaled Amireh</b><br/>
-  <a href="https://github.com/khaled-amireh">🔗 GitHub</a>
 </p>
 
 <p align="center"><i>If this project helped you, drop a ⭐ on the repo.</i></p>
