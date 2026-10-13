@@ -126,11 +126,11 @@ journey
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 | Category | Tools |
 |---|---|
-| 📊 Visualization & Reporting | Power BI |
+|  Visualization & Reporting | Power BI |
 | 🧹 Data Preparation | Data Cleaning (Power Query) |
 | 📄 Data Source | Flipkart Sales Dataset (CSV) |
 
