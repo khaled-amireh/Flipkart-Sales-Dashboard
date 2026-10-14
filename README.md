@@ -174,12 +174,6 @@ The goal of this project is to practice **end-to-end data analysis and visualiza
 |  Visualization | Charts built around the five key questions |
 |  Data storytelling | One page that explains the business at a glance |
 
----
-
-##  Next Steps
-
-- [ ] Document the key DAX measures behind the visuals
-- [ ] Add a short data dictionary explaining each column
 
 ---
 
